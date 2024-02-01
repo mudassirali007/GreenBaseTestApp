@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .card {
+
+    width: 540px;
+    height: 509px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 8px;
+  }
+  
+  .check-icon {
+    margin: 0 auto 20px;
+    width: 180px;
+    height: 180px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .check-icon img {
+    width: 140px;
+    height: 140px;
+  }
+  
+  h1 {
+    
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0px;
+    text-align: center;
+    margin-bottom: 0;
+  }
+  
+  p {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #5A607F;
+    margin: 0 0 60px 0;
+
+  }
+
+  hr {
+    width: 420px;
+    border: 1px solid #E6E9F4;
+   
+  }
+  
+  .resend-text {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #5A607F;
+    margin: 20px 0;
+  }
+
+  button {
+   
+  
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #1E5EFF;
+    background:#FFFFFF;
+    border: 1px solid #D7DBEC;
+    border-radius: 4px;
+    width: 420px;
+    height: 48px;
+    text-align: center;
+  }
+  
+ 
+ 
+  
